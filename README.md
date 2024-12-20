@@ -1,15 +1,12 @@
 <div align="center">
 
-  <h1><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="50">
+  <h1>
+    <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="50">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+Welcome+to+my+Github+profile!)
   </h1>
-<br>
-
+  
   ## Languajes and Database Technologies
-
-  <br>
-  <br>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 20px;">
     <a href="https://www.w3.org/html/" target="_blank">
@@ -43,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
   </a>
     
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;
+  &nbsp;
 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
@@ -58,9 +55,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="50" height="50"/>     
   </a>
 </div>
-  
-  <br>
-  <br>
   
 ## Machine Learning & Deep Learning Technologies
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 20px;">
