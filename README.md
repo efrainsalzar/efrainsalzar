@@ -71,8 +71,7 @@
 
   ## GitHub Stats
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efrainsalzar&show_icons=true&count_private=true&hide=prs&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10)
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efrainsalzar&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10)
   
   </div>
