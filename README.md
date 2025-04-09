@@ -1,9 +1,8 @@
 <div align="center">
 
   <h1>
-     
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&multiline=true&repeat=false&width=435&lines=Hi+There%2C+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1&pause=1&multiline=true&repeat=false&width=435&lines=Hi+There%2C+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   </h1>
   
   ## Languajes and Database Technologies
