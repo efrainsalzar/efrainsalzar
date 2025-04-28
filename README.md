@@ -20,9 +20,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-<a href="https://desktop.github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-</a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
@@ -55,16 +52,6 @@
   </a>
 </div>
   
-## Machine Learning & Deep Learning Technologies
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white&width=200" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white&width=200" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white&width=200" alt="Keras"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&width=200" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white&width=200" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2301336C.svg?style=flat&logo=python&logoColor=white&width=200" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=flat&logo=python&logoColor=white&width=200" alt="Deep Learning"/>
-</div>
 
   ## GitHub Stats
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
