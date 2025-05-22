@@ -53,10 +53,14 @@
 </div>
   
 
-  ## GitHub Stats
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efrainsalzar&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10)
-  
-  </div>
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efrainsalzar&layout=compact&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=efrainsalzar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
 </div>
